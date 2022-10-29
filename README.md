@@ -1,10 +1,10 @@
 # Android Project 4 - Flixster
 
-Submitted by: *Matheu Douglas*
+Submitted by: **Matheu Douglas**
 
-*Flixster* is a movie browsing app that allows users to browse ... [TODO] 
+**Flixster** is a movie browsing app that allows users to browse ... [TODO] 
 
-Time spent: *8* hours spent in total
+Time spent: **8** hours spent in total
 
 ## Required Features
 
@@ -30,14 +30,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='100%' alt='Video Walkthrough' />
+![prj4](https://user-images.githubusercontent.com/98051936/198760215-87bd3068-5e86-433f-a241-61a184ab8588.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with FFMPEG
 
 ## Notes
 
